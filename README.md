@@ -1,8 +1,9 @@
 # HOLA
 
 Vamos a estar desarrollando este proyecto el cual se llama org y es una plataforma que nos va a ayudar a organizar tanto las personas como equipos de nuestra empresa echa con React
+![image](https://github.com/Jincoxx/Desarrollando-react-con-javaScript/assets/108629591/93762159-de31-4e0d-b527-4857640a6a66)
 
-![image](https://github.com/Jincoxx/Desarrollando-react-con-javaScript/assets/108629591/37997601-12fa-4276-b7ef-a34f7ab4893d)
+
 
 # Getting Started with Create React App
 
